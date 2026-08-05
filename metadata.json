@@ -1,0 +1,6 @@
+{
+  "name": "Anime Info Explorer",
+  "description": "A sleek, responsive anime information page inspired by modern streaming platforms, featuring rich metadata, character lists, and episode guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
